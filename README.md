@@ -42,5 +42,5 @@ python mood_detector.py 2
 Quit: Press q on your keyboard while the video window is focused to stop the program.
 
 ## Troubleshooting
--"Error: Could not open webcam": This means the camera index is incorrect or another application (like Zoom/Teams) is using the camera. Try changing the index number or closing other apps.
--"ModuleNotFoundError": Ensure you have installed the requirements in the correct Python environment. If using PyCharm, verify the interpreter settings.
+- "Error: Could not open webcam": This means the camera index is incorrect or another application (like Zoom/Teams) is using the camera. Try changing the index number or closing other apps.
+- "ModuleNotFoundError": Ensure you have installed the requirements in the correct Python environment. If using PyCharm, verify the interpreter settings.
